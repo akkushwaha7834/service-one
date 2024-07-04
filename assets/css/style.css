@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+    --opacity: 1;
+    --primary: 96, 63, 131;
+    --secondary: 230, 154, 141;
+    --white: 248, 249, 250;
+    --black: 33, 37, 41;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgba(var(--white), var(--opacity));
+}
+
+section {
+    padding: 60px 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(var(--white), var(--opacity));
+    transition: all .2s ease-in-out;
+}
+
+a:hover {
+    color: rgba(var(--secondary), var(--opacity));
+}
+
+a:focus,
+button:focus {
+    box-shadow: none !important;
+}
+
+.bgc-primary {
+    background-color: rgba(var(--primary), var(--opacity));
+}
+
+.btn-primary {
+    --bs-btn-color: rgba(var(--white));
+    --bs-btn-bg: rgba(var(--primary));
+    --bs-btn-border-color: rgba(var(--primary));
+    --bs-btn-hover-color: rgba(var(--white));
+    --bs-btn-hover-bg: rgba(var(--primary), .8);
+    --bs-btn-hover-border-color: rgba(var(--primary), .8);
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: rgba(var(--white));
+    --bs-btn-active-bg: rgba(var(--primary), .8);
+    --bs-btn-active-border-color: rgba(var(--primary), .8);
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(var(--black), 0.125);
+    --bs-btn-disabled-color: rgba(var(--white));
+    --bs-btn-disabled-bg: rgba(var(--primary), .8);
+    --bs-btn-disabled-border-color: rgba(var(--primary), .8);
+}
+
+/* header */
+.header {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+.navbar-brand:hover {
+    --bs-navbar-brand-hover-color: rgba(var(--secondary), var(--opacity));
+}
+
+.nav-link {
+    --bs-nav-link-color: rgba(var(--white, var(--opacity)));
+    --bs-nav-link-font-weight: 500;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    --bs-nav-link-hover-color: rgba(var(--secondary), var(--opacity));
+}
+
+/* hero section */
+.hero {
+    background: url(../img/ocean-rocks.jpg) no-repeat fixed center center;
+    position: relative;
+    z-index: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero::before {
+    position: absolute;
+    content: '';
+    inset: 0;
+    z-index: -1;
+    --opacity: .5;
+    background: rgba(var(--black), var(--opacity));
+}
+
+.hero .form-select:focus,
+.hero .form-control:focus {
+    border-color: rgba(var(--primary), 0);
+    box-shadow: 0 0 0 .25rem rgba(var(--primary), .5);
+    padding: 1rem;
+}
+
+.hero form .btn,
+.hero .form-select,
+.hero .form-control {
+    padding: 1rem;
+}
+
+.hero-title {
+    font-size: 3.5rem;
+    color: rgba(var(--white), var(--opacity));
+}
+
+/* footer */
+footer {
+    color: rgba(var(--white), var(--opacity));
+}
+
+@media (min-width: 992px) {
+    .nav-link {
+        padding: 1rem 0;
+        position: relative;
+    }
+
+    .nav-link::before {
+        position: absolute;
+        content: '';
+        left: 0;
+        bottom: 0;
+        width: 0;
+        height: 3px;
+        background-color: rgba(var(--secondary), var(--opacity));
+        transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+
+    .nav-link:hover::before {
+        width: 100%;
+    }
+
+    .hero {
+        min-height: calc(100vh - 10px);
+    }
+
+    .hero .form-select {
+        border-radius: 0;
+    }
+
+    .hero .form-control {
+        border-radius: 100px 0 0 100px;
+    }
+
+    .hero form .btn {
+        border-radius: 0 100px 100px 0;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1399px) {
+    .hero-title {
+        font-size: 2.8rem;
+    }
+}
+
+@media (max-width: 991px) {
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .hero>.container {
+        margin-top: 3.5rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .hero-title {
+        font-size: 1.75rem;
+    }
+}
