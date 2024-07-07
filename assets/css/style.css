@@ -16,7 +16,16 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: rgba(var(--white), var(--opacity));
+    /* color: rgba(var(--white), var(--opacity)); */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgba(var(--primary), var(--opacity)) !important;
 }
 
 section {
@@ -36,6 +45,10 @@ a:hover {
 a:focus,
 button:focus {
     box-shadow: none !important;
+}
+
+.text-primary {
+    color: rgba(var(--primary), var(--opacity)) !important;
 }
 
 .bgc-primary {
@@ -82,47 +95,32 @@ button:focus {
     --bs-nav-link-hover-color: rgba(var(--secondary), var(--opacity));
 }
 
-/* hero section */
-.hero {
-    background: url(../img/ocean-rocks.jpg) no-repeat fixed center center;
-    position: relative;
-    z-index: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.dropdown-item.active,
+.dropdown-item:active {
+    --bs-dropdown-link-active-bg: rgba(var(--primary));
 }
 
-.hero::before {
-    position: absolute;
-    content: '';
-    inset: 0;
-    z-index: -1;
-    --opacity: .5;
-    background: rgba(var(--black), var(--opacity));
-}
-
-.hero .form-select:focus,
-.hero .form-control:focus {
-    border-color: rgba(var(--primary), 0);
-    box-shadow: 0 0 0 .25rem rgba(var(--primary), .5);
-    padding: 1rem;
-}
-
-.hero form .btn,
-.hero .form-select,
-.hero .form-control {
-    padding: 1rem;
-}
-
-.hero-title {
-    font-size: 3.5rem;
-    color: rgba(var(--white), var(--opacity));
+.dropdown-item:focus,
+.dropdown-item:hover {
+    --bs-dropdown-link-hover-color: rgba(var(--white));
+    --bs-dropdown-link-hover-bg: rgba(var(--primary), var(--opacity));
 }
 
 /* footer */
 footer {
     color: rgba(var(--white), var(--opacity));
 }
+
+
+/* model card */
+.model-card>img {
+    max-height: 320px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
+}
+
 
 @media (min-width: 992px) {
     .nav-link {
@@ -138,6 +136,7 @@ footer {
         width: 0;
         height: 3px;
         background-color: rgba(var(--secondary), var(--opacity));
+        -o-transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275);
         transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275);
     }
 
@@ -145,20 +144,18 @@ footer {
         width: 100%;
     }
 
-    .hero {
-        min-height: calc(100vh - 10px);
+    .nav-item.dropdown .dropdown-menu {
+        display: block;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(10px);
     }
 
-    .hero .form-select {
-        border-radius: 0;
-    }
-
-    .hero .form-control {
-        border-radius: 100px 0 0 100px;
-    }
-
-    .hero form .btn {
-        border-radius: 0 100px 100px 0;
+    .nav-item.dropdown:hover .dropdown-menu {
+        transition: all .3s ease-in-out;
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible
     }
 }
 
@@ -169,12 +166,12 @@ footer {
 }
 
 @media (max-width: 991px) {
-    .hero-title {
-        font-size: 2.5rem;
+    section {
+        padding: 30px 0;
     }
 
-    .hero>.container {
-        margin-top: 3.5rem;
+    .hero-title {
+        font-size: 2.5rem;
     }
 }
 
