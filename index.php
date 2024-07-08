@@ -204,17 +204,17 @@
   <div class="container">
     <div class="row gy-4">
       <div class="col-12">
-        <h1 class="text-primary">Call Girls in Lucknow Escorts Service</h1>
+        <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ipsam itaque quia sit impedit enim nemo alias consectetur corporis tempore dolor iure fugiat, sed id minima doloremque quasi suscipit, beatae debitis earum, magnam blanditiis! Tempora unde consequatur ipsa assumenda deleniti. Dolores perspiciatis aliquid quibusdam doloribus dolor sequi quam, autem temporibus assumenda veniam reiciendis voluptates eius sint quod suscipit repellat! Nemo ipsum, perferendis facilis earum veritatis repellat soluta delectus. Quis numquam voluptatem porro dolores architecto velit maxime illo eveniet distinctio officia?</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
       </div>
       <div class="col-12">
-        <h1 class="text-primary">Call Girls in Lucknow Escorts Service</h1>
+        <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ipsam itaque quia sit impedit enim nemo alias consectetur corporis tempore dolor iure fugiat, sed id minima doloremque quasi suscipit, beatae debitis earum, magnam blanditiis! Tempora unde consequatur ipsa assumenda deleniti. Dolores perspiciatis aliquid quibusdam doloribus dolor sequi quam, autem temporibus assumenda veniam reiciendis voluptates eius sint quod suscipit repellat! Nemo ipsum, perferendis facilis earum veritatis repellat soluta delectus. Quis numquam voluptatem porro dolores architecto velit maxime illo eveniet distinctio officia?</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
       </div>
       <div class="col-12">
-        <h1 class="text-primary">Call Girls in Lucknow Escorts Service</h1>
+        <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ipsam itaque quia sit impedit enim nemo alias consectetur corporis tempore dolor iure fugiat, sed id minima doloremque quasi suscipit, beatae debitis earum, magnam blanditiis! Tempora unde consequatur ipsa assumenda deleniti. Dolores perspiciatis aliquid quibusdam doloribus dolor sequi quam, autem temporibus assumenda veniam reiciendis voluptates eius sint quod suscipit repellat! Nemo ipsum, perferendis facilis earum veritatis repellat soluta delectus. Quis numquam voluptatem porro dolores architecto velit maxime illo eveniet distinctio officia?</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
       </div>
@@ -222,19 +222,54 @@
   </div>
 </section>
 
-<section class="bg-light-subtle faq-section">
+<section class="bg-light-subtle">
   <div class="container">
-    <h1 class="text-primary text-center mb-4">FAQ</h1>
-    <div class="accordion" id="accordionExample">
-      <div class="row g-3">
+    <div class="row gy-4">
+      <div class="col-12 text-center">
+        <h2 class="text-primary mb-4">Escorts</h2>
+      </div>
+      <?php for ($i = 0; $i < 4; $i++) { ?>
         <div class="col-md-6">
+          <div class="card overflow-hidden escort-card">
+            <div class="row g-0">
+              <div class="col-lg-4">
+                <a href="#">
+                  <img src="./assets/img/escort-girl.jpg" class="img-fluid" alt="">
+                </a>
+              </div>
+              <div class="col-lg-8">
+                <div class="card-body">
+                  <a href="#">
+                    <h5 class="card-title text-primary">Model Name</h5>
+                  </a>
+                  <p class="card-text line-clamp-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, possimus exercitationem? Natus odio iusto dignissimos optio, quisquam amet officiis consequuntur?</p>
+                  <!-- <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p> -->
+                  <a href="#">
+                    <button class="btn btn-primary">Visit profile</button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <?php } ?>
+    </div>
+  </div>
+</section>
+
+<section class=faq-section">
+  <div class="container">
+    <h2 class="text-primary text-center mb-4">FAQ</h2>
+    <div class="row g-3">
+      <div class="col-md-6">
+        <div class="accordion" id="accordionFaq">
           <div class="accordion-item">
             <h2 class="accordion-header">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <button class="accordion-button collapsed fw-medium" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                 How much time I can spend with escorts?
               </button>
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
               <div class="accordion-body">
                 <p>Its depend on your budget timing booking slot.</p>
               </div>
@@ -242,37 +277,39 @@
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              <button class="accordion-button collapsed fw-medium" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                 What is the Way to get Lucknow call girl no?
               </button>
             </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
               <div class="accordion-body">
-                <p>Alisa chopra call girl agency is the best website for escorts in Lucknow with mobile no.</p>
+                <p>This Call girl agency is the best website for escorts in Lucknow with mobile no.</p>
               </div>
             </div>
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <button class="accordion-button collapsed fw-medium" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                 How to select with Call girls photos?
               </button>
             </h2>
-            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
               <div class="accordion-body">
-                <p>Yes, You can select our call girls pics or Photos by alisa chora whatsapp.</p>
+                <p>Yes, You can select our call girls pics or Photos on whatsapp.</p>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+      </div>
+      <div class="col-md-6">
+        <div class="accordion" id="accordionFaq2">
           <div class="accordion-item">
             <h2 class="accordion-header">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+              <button class="accordion-button collapsed fw-medium" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                 Is it possible to Book russian Escort girl in Lucknow?
               </button>
             </h2>
-            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFaq2">
               <div class="accordion-body">
                 <p>Yes, You can book Russian call girls.</p>
               </div>
@@ -280,11 +317,11 @@
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+              <button class="accordion-button collapsed fw-medium" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                 Can We visit places and shopping out of the city with call girl Lucknow?
               </button>
             </h2>
-            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionFaq2">
               <div class="accordion-body">
                 <p>Yes, You can! offers escort in Lucknow who can attend bachelor parties and nights out and you can go on travel trips with you.</p>
               </div>
@@ -292,11 +329,11 @@
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+              <button class="accordion-button collapsed fw-medium" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                 Can i take personal no.?
               </button>
             </h2>
-            <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+            <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFaq2">
               <div class="accordion-body">
                 <p>Yes, its reliable site for Lucknow escort call girl service there you can call her directly to Lucknow call girl personal no.</p>
               </div>

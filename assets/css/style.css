@@ -136,6 +136,23 @@ footer {
     overflow: hidden;
 }
 
+/* escort card */
+.escort-card img {
+    max-height: 200px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .escort-card img {
+        max-height: fit-content;
+        height: 100%;
+    }
+}
+
 /* model popup */
 .model-pop-detail>li>strong {
     flex-basis: 120px;
@@ -155,6 +172,10 @@ footer {
 .faq-section .accordion-button:not(.collapsed) {
     --bs-accordion-active-color: var(--white);
     --bs-accordion-active-bg: var(--primary);
+}
+
+.faq-section .accordion-button:not(.collapsed)::after {
+    filter: invert(1);
 }
 
 @media (min-width: 992px) {
