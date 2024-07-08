@@ -44,6 +44,9 @@
                                 <a class="nav-link" href="#">Service</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="./rates.php">Rates</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="#">Location</a>
                             </li>
                             <li class="nav-item">

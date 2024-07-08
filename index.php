@@ -419,10 +419,4 @@
   </div>
 </div>
 
-<script>
-  document.querySelectorAll('img').forEach(e => {
-    e.style.opacity = 0;
-  })
-</script>
-
 <?php include_once('include/footer.php'); ?>

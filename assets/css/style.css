@@ -163,6 +163,10 @@ footer {
     --bs-table-bg-state: var(--secondary);
 }
 
+.model-list-table.table-striped>tbody>tr:nth-of-type(odd)>* {
+    --bs-table-striped-bg: var(--primary-light);
+}
+
 /* faq section */
 .faq-section .accordion-button:not(.collapsed) {
     --bs-accordion-active-color: var(--white);
@@ -171,6 +175,11 @@ footer {
 
 .faq-section .accordion-button:not(.collapsed)::after {
     filter: invert(1);
+}
+
+.grid-column {
+    column-count: 3;
+    column-gap: 1rem;
 }
 
 @media (min-width: 992px) {
