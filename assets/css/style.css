@@ -94,10 +94,6 @@ button:focus {
     z-index: 999;
 }
 
-.navbar-brand:hover {
-    --bs-navbar-brand-hover-color: var(--secondary);
-}
-
 .nav-link {
     --bs-nav-link-color: var(--white);
     --bs-nav-link-font-weight: 500;
@@ -106,17 +102,6 @@ button:focus {
 .nav-link:focus,
 .nav-link:hover {
     --bs-nav-link-hover-color: var(--secondary);
-}
-
-.dropdown-item.active,
-.dropdown-item:active {
-    --bs-dropdown-link-active-bg: var(--primary);
-}
-
-.dropdown-item:focus,
-.dropdown-item:hover {
-    --bs-dropdown-link-hover-color: var(--white);
-    --bs-dropdown-link-hover-bg: var(--primary);
 }
 
 /* footer */
@@ -148,7 +133,7 @@ footer {
 }
 
 .escort-card .escort-img {
-    max-height: 200px;
+    max-height: 220px;
     width: 100%;
     -o-object-fit: cover;
     object-fit: cover;
@@ -208,20 +193,6 @@ footer {
 
     .nav-link:hover::before {
         width: 100%;
-    }
-
-    .nav-item.dropdown .dropdown-menu {
-        display: block;
-        opacity: 0;
-        visibility: hidden;
-        transform: translateY(20px);
-    }
-
-    .nav-item.dropdown:hover .dropdown-menu {
-        transition: all .3s ease-in-out;
-        transform: translateY(0);
-        opacity: 1;
-        visibility: visible
     }
 }
 
