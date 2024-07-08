@@ -8,7 +8,7 @@
             </div>
             <div class="col-lg-8 offset-lg-1">
                 <div class="row gy-4">
-                    <div class="col-lg-4 col-6">
+                    <div class="col-md-4 col-6">
                         <div class="h5 fw-medium text-decoration-underline text-white mb-3">QUICK LINKS</div>
                         <ul class="list-unstyled">
                             <li><a href="#">Home</a></li>
@@ -17,7 +17,7 @@
                             <li><a href="#">Contact</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-4 col-6">
+                    <div class="col-md-4 col-6">
                         <div class="h5 fw-medium text-decoration-underline text-white mb-3">TOP CITIES</div>
                         <ul class="list-unstyled">
                             <li><a href="#">Delhi Escort</a></li>
@@ -27,7 +27,7 @@
                             <li><a href="#">Chennai Escort</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-4 col-6">
+                    <div class="col-md-4">
                         <div class="h5 fw-medium text-decoration-underline text-white mb-3">CONTACT</div>
                         <ul class="list-unstyled">
                             <li class="mb-2">
