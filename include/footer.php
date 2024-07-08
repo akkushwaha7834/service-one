@@ -12,7 +12,7 @@
                         <div class="h5 fw-medium text-decoration-underline text-white mb-3">QUICK LINKS</div>
                         <ul class="list-unstyled">
                             <li><a href="./">Home</a></li>
-                            <li><a href="#">About</a></li>
+                            <li><a href="./about.php">About</a></li>
                             <li><a href="#">Profile</a></li>
                             <li><a href="./rates.php">Rates</a></li>
                             <li><a href="#">Location</a></li>
@@ -85,12 +85,6 @@
     </div>
 </footer>
 <!-- footer end -->
-
-<!-- <script>
-    document.querySelectorAll('img').forEach(e => {
-        e.style.opacity = 0;
-    })
-</script> -->
 
 <script src="./assets/js/bootstrap.bundle.min.js"></script>
 <script src="./assets/js/script.js"></script>
