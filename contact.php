@@ -7,7 +7,15 @@
     <div class="container">
         <div class="row gy-4">
             <div class="col-12">
-                <h1 class="text-center">Contact us: <a href="#" class="text-decoration-underline">contact@website.com</a></h1>
+                <h1 class="text-center mb-3">Avaliable 24x7 Contact anytime</h1>
+                <p class="mb-2">
+                    <strong>Phone:</strong>
+                    <span class="text-decoration-underline">+91 9999999999</span>
+                </p>
+                <p>
+                    <strong>E-mail:</strong>
+                    <span class="text-decoration-underline">contact@website.com</span>
+                </p>
             </div>
             <div class="col-12">
                 <h2>Lorem ipsum dolor sit</h2>
