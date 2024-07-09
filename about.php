@@ -109,4 +109,29 @@
     </div>
 </section>
 
+<section>
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-lg-10 offset-lg-1 text-center">
+                <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
+            </div>
+        </div>
+        <div class="row gy-4">
+            <?php for ($i = 0; $i < 8; $i++) { ?>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="card h-100 model-card">
+                        <img src="./assets/img/escort-girl.jpg" alt="" class="card-img-top" />
+                        <div class="card-body">
+                            <h5 class="card-title">Model Name</h5>
+                            <p class="card-text line-clamp-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis necessitatibus cum similique incidunt itaque eveniet nobis voluptatum animi laboriosam ipsum?</p>
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">View Details</button>
+                        </div>
+                    </div>
+                </div>
+            <?php } ?>
+        </div>
+    </div>
+</section>
+
 <?php include_once('./include/footer.php') ?>

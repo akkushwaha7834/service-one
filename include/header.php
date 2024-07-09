@@ -38,10 +38,10 @@
                                 <a class="nav-link" href="./about.php">About</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Profile</a>
+                                <a class="nav-link" href="./profile.php">Profile</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Service</a>
+                                <a class="nav-link" href="./service.php">Service</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="./rates.php">Rates</a>
@@ -50,7 +50,7 @@
                                 <a class="nav-link" href="#">Location</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contact</a>
+                                <a class="nav-link" href="./contact.php">Contact</a>
                             </li>
                         </ul>
                     </div>

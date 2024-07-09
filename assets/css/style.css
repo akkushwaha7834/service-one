@@ -16,6 +16,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    font-size: 18px;
 }
 
 h1,
@@ -133,7 +134,7 @@ footer {
 }
 
 .escort-card .escort-img {
-    max-height: 220px;
+    max-height: 235px;
     width: 100%;
     -o-object-fit: cover;
     object-fit: cover;
@@ -149,6 +150,10 @@ footer {
 }
 
 /* model popup */
+.model-pop-detail>li:nth-child(even) {
+    background-color: var(--primary-light);
+}
+
 .model-pop-detail>li>strong {
     flex-basis: 120px;
 }

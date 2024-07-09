@@ -13,10 +13,11 @@
                         <ul class="list-unstyled">
                             <li><a href="./">Home</a></li>
                             <li><a href="./about.php">About</a></li>
-                            <li><a href="#">Profile</a></li>
+                            <li><a href="./profile.php">Profile</a></li>
+                            <li><a href="./service.php">Service</a></li>
                             <li><a href="./rates.php">Rates</a></li>
                             <li><a href="#">Location</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="./contact.php">Contact</a></li>
                         </ul>
                     </div>
                     <div class="col-md-4 col-6">
@@ -85,6 +86,61 @@
     </div>
 </footer>
 <!-- footer end -->
+
+
+<!-- modal popup to show model details -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-centered modal-dialog-scrollable modal-lg">
+        <div class="modal-content">
+            <div class="modal-header border-0">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Model Details</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row gy-4">
+                    <div class="col-md-6 text-center">
+                        <img src="./assets/img/escort-girl.jpg" alt="" class="object-fit-cover rounded" height="400">
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="list-unstyled d-flex flex-column gap-2 model-pop-detail">
+                            <li class="d-flex gap-3 py-2 px-3 rounded">
+                                <strong class="text-primary">Name:</strong>
+                                <span>Awantika</span>
+                            </li>
+                            <li class="d-flex gap-3 py-2 px-3 rounded">
+                                <strong class="text-primary">Age:</strong>
+                                <span>21</span>
+                            </li>
+                            <li class="d-flex gap-3 py-2 px-3 rounded">
+                                <strong class="text-primary">Location:</strong>
+                                <span>Delhi, New Delhi</span>
+                            </li>
+                            <li class="d-flex gap-3 py-2 px-3 rounded">
+                                <strong class="text-primary">Figure:</strong>
+                                <span>32, 30, 44</span>
+                            </li>
+                            <li class="d-flex gap-3 py-2 px-3 rounded">
+                                <strong class="text-primary">Hair and Eyes:</strong>
+                                <span>Blonde</span>
+                            </li>
+                            <li class="d-flex gap-3 py-2 px-3 rounded">
+                                <strong class="text-primary">Height:</strong>
+                                <span>5'1 ft</span>
+                            </li>
+                            <li class="d-flex gap-3 py-2 px-3 rounded">
+                                <strong class="text-primary">Body weight:</strong>
+                                <span>54 kg</span>
+                            </li>
+                        </ul>
+                        <a href="#">
+                            <button class="btn btn-primary">CALL NOW</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <script src="./assets/js/bootstrap.bundle.min.js"></script>
 <script src="./assets/js/script.js"></script>

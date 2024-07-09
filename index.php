@@ -247,14 +247,6 @@
                     <small class="text-primary border rounded p-2">Female</small>
                     <small class="text-primary border rounded p-2">21 Yrs</small>
                   </p>
-                  <!-- <a href="#">
-                    <button class="btn btn-primary d-flex gap-2 align-items-center">
-                      <span>BOOK NOW</span>
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="#ffffff" height="1em">
-                        <path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
-                      </svg>
-                    </button>
-                  </a> -->
                   <p class="card-text text-body-secondary text-end">
                     <a href="#" class="badge rounded-pill text-bg-success py-2 px-3">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="1em" fill="rgba(255,255,255,1)">
@@ -367,56 +359,5 @@
   </div>
 </section>
 
-
-<!-- modal popup to show model details -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-centered modal-dialog-scrollable modal-lg">
-    <div class="modal-content">
-      <div class="modal-header border-0">
-        <h1 class="modal-title fs-5" id="exampleModalLabel">Model Details</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <div class="row gy-4">
-          <div class="col-md-6">
-            <img src="./assets/img/escort-girl.jpg" alt="" class="img-fluid rounded">
-          </div>
-          <div class="col-md-6">
-            <ul class="list-unstyled d-flex flex-column gap-2 mb-0 model-pop-detail">
-              <li class="d-flex gap-3">
-                <strong class="text-primary">Name:</strong>
-                <span>Awantika</span>
-              </li>
-              <li class="d-flex gap-3">
-                <strong class="text-primary">Age:</strong>
-                <span>21</span>
-              </li>
-              <li class="d-flex gap-3">
-                <strong class="text-primary">Location:</strong>
-                <span>Delhi, New Delhi</span>
-              </li>
-              <li class="d-flex gap-3">
-                <strong class="text-primary">Figure:</strong>
-                <span>32,30,44</span>
-              </li>
-              <li class="d-flex gap-3">
-                <strong class="text-primary">Hair and Eyes:</strong>
-                <span>Blonde</span>
-              </li>
-              <li class="d-flex gap-3">
-                <strong class="text-primary">Height:</strong>
-                <span>5'1</span>
-              </li>
-              <li class="d-flex gap-3">
-                <strong class="text-primary">Body weight:</strong>
-                <span>54 kg</span>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <?php include_once('include/footer.php'); ?>
