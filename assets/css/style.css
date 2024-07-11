@@ -142,6 +142,26 @@ footer {
     object-position: center;
 }
 
+.escorts-lising .main-image {
+    background: var(--white);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.image-box-with-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--primary);
+    gap: 10px;
+    padding: 15px 0;
+    margin: 0 20px;
+    margin-top: -30px;
+    z-index: 99;
+    position: relative;
+    border-radius: 20px;
+}
+
 @media (min-width: 992px) and (max-width: 1199px) {
     .escort-card .escort-img {
         max-height: fit-content;

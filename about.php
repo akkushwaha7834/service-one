@@ -19,6 +19,25 @@
     </div>
 </section>
 
+<section class="bg-body-secondary">
+    <div class="container">
+        <div class="row gy-4">
+            <?php for ($i = 0; $i < 8; $i++) { ?>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                    <div class="escorts-lising">
+                        <div class="images-box">
+                            <img src="https://shehnaazkhan.com/wp-content/uploads/elementor/thumbs/alesha1-qkjhb5i63f3kzueffm85mq2uxpxgdbxs5ke49ff6lc.jpg" class="img-fluid w-100 main-image">
+                            <div class="image-box-with-text text-center btn btn-primary">
+                                <a role="button" class="text-white">Awantika</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <?php } ?>
+        </div>
+    </div>
+</section>
+
 <section class="bg-light">
     <div class="container">
         <div class="row">
