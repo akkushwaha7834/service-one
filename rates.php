@@ -62,13 +62,13 @@
                     </table>
                 </div>
             </div>
-            <?php for ($i = 0; $i < 6; $i++) { ?>
+            <!-- <?php for ($i = 0; $i < 6; $i++) { ?>
                 <div class="col-md-6">
                     <div class="card overflow-hidden escort-card">
                         <div class="row g-0">
                             <div class="col-lg-4">
                                 <a href="#">
-                                    <img src="./assets/img/escort-girl.jpg" class="img-fluid escort-img" alt="">
+                                    <img src="./assets/img/gallery-1.webp" class="img-fluid escort-img" alt="">
                                 </a>
                             </div>
                             <div class="col-lg-8">
@@ -100,7 +100,7 @@
                         </div>
                     </div>
                 </div>
-            <?php } ?>
+            <?php } ?> -->
         </div>
     </div>
 </section>

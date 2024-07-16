@@ -99,7 +99,7 @@
             <div class="modal-body">
                 <div class="row gy-4">
                     <div class="col-md-6 text-center">
-                        <img src="./assets/img/escort-girl.jpg" alt="" class="object-fit-cover rounded" height="400">
+                        <img src="./assets/img/gallery-1.webp" alt="" class="object-fit-cover rounded" height="400">
                     </div>
                     <div class="col-md-6">
                         <ul class="list-unstyled d-flex flex-column gap-2 model-pop-detail">
@@ -132,9 +132,10 @@
                                 <span>54 kg</span>
                             </li>
                         </ul>
-                        <a href="#">
-                            <button class="btn btn-primary">CALL NOW</button>
-                        </a>
+                        <div class="pro-social">
+                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                        </div>
                     </div>
                 </div>
             </div>

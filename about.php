@@ -26,7 +26,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <div class="escorts-lising">
                         <div class="images-box">
-                            <img src="https://shehnaazkhan.com/wp-content/uploads/elementor/thumbs/alesha1-qkjhb5i63f3kzueffm85mq2uxpxgdbxs5ke49ff6lc.jpg" class="img-fluid w-100 main-image">
+                            <img src="assets/img/gallery-1.webp" class="img-fluid w-100 main-image">
                             <div class="image-box-with-text text-center btn btn-primary">
                                 <a role="button" class="text-white">Awantika</a>
                             </div>
@@ -128,7 +128,7 @@
     </div>
 </section>
 
-<section>
+<!-- <section>
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-10 offset-lg-1 text-center">
@@ -140,7 +140,7 @@
             <?php for ($i = 0; $i < 8; $i++) { ?>
                 <div class="col-lg-3 col-sm-6">
                     <div class="card h-100 model-card">
-                        <img src="./assets/img/escort-girl.jpg" alt="" class="card-img-top" />
+                        <img src="./assets/img/gallery-1.webp" alt="" class="card-img-top" />
                         <div class="card-body">
                             <h5 class="card-title">Model Name</h5>
                             <p class="card-text line-clamp-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis necessitatibus cum similique incidunt itaque eveniet nobis voluptatum animi laboriosam ipsum?</p>
@@ -151,6 +151,6 @@
             <?php } ?>
         </div>
     </div>
-</section>
+</section> -->
 
 <?php include_once('./include/footer.php') ?>

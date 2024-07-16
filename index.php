@@ -32,7 +32,7 @@
       <?php for ($i = 0; $i < 8; $i++) { ?>
         <div class="col-lg-3 col-sm-6">
           <div class="card h-100 model-card">
-            <img src="./assets/img/escort-girl.jpg" alt="" class="card-img-top" />
+            <img src="./assets/img/gallery-1.webp" alt="" class="card-img-top" />
             <div class="card-body">
               <h5 class="card-title">Model Name</h5>
               <p class="card-text line-clamp-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis necessitatibus cum similique incidunt itaque eveniet nobis voluptatum animi laboriosam ipsum?</p>
@@ -139,7 +139,7 @@
   <div class="container">
     <div class="row gy-4">
       <div class="col-md-6 col-lg-4">
-        <img src="./assets/img/escort-girl.jpg" alt="" class="img-fluid rounded">
+        <img src="./assets/img/gallery-1.webp" alt="" class="img-fluid rounded">
       </div>
       <div class="col-md-6 col-lg-7 offset-lg-1">
         <h2 class="text-primary mb-3">Lorem ipsum dolor sit</h2>
@@ -234,7 +234,7 @@
             <div class="row g-0">
               <div class="col-lg-4">
                 <a href="#">
-                  <img src="./assets/img/escort-girl.jpg" class="img-fluid escort-img" alt="">
+                  <img src="./assets/img/gallery-1.webp" class="img-fluid escort-img" alt="">
                 </a>
               </div>
               <div class="col-lg-8">

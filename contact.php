@@ -48,7 +48,7 @@
                         <div class="row g-0">
                             <div class="col-lg-4">
                                 <a href="#">
-                                    <img src="./assets/img/escort-girl.jpg" class="img-fluid escort-img" alt="">
+                                    <img src="./assets/img/gallery-1.webp" class="img-fluid escort-img" alt="">
                                 </a>
                             </div>
                             <div class="col-lg-8">
