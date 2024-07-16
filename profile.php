@@ -1,7 +1,7 @@
 <?php include_once('include/header.php'); ?>
 
 <!-- hero section -->
-<img src="./assets/img/hero-banner.jpg" alt="Hero Banner" class="img-fluid pe-none" />
+<img src="./assets/img/banner.webp" alt="Hero Banner" class="img-fluid pe-none" width="100%" />
 
 <section>
     <div class="container">
@@ -33,7 +33,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <div class="escorts-lising">
                         <div class="images-box">
-                            <img src="https://shehnaazkhan.com/wp-content/uploads/elementor/thumbs/alesha1-qkjhb5i63f3kzueffm85mq2uxpxgdbxs5ke49ff6lc.jpg" class="img-fluid w-100 main-image">
+                            <img src="assets/img/gallery-1.webp" class="img-fluid w-100 main-image">
                             <div class="image-box-with-text text-center btn btn-primary">
                                 <a role="button" class="text-white">Awantika</a>
                             </div>

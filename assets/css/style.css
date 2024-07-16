@@ -235,3 +235,20 @@ footer {
         padding: 30px 0;
     }
 }
+.bookform {
+    padding: 46px 30px;
+    background: var(--primary);
+    border-radius: 16px;
+}
+.bookform .form-control:focus {
+    box-shadow: 0 0 0 0.15rem var(--secondary);
+    border-color: #fff;
+}
+.form-group {
+    margin: 20px 0;
+}
+.btn.bttn_form {
+    padding: 10px 20px;
+    background: var(--secondary);
+    color: #fff;
+}
