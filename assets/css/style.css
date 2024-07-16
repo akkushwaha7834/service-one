@@ -277,6 +277,6 @@ footer {
 .location-tag a{
     color: var(--white);
 }
-.top-cities{
+.custom-dark-bg{
     background: var(--black);
 }
