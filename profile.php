@@ -144,7 +144,7 @@
             <?php for ($i = 0; $i < 5; $i++) { ?>
                 <div>
                     <ul class="list-unstyled d-flex flex-column gap-2 mb-0">
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -152,7 +152,7 @@
                             </span>
                             <a href="#">Lucknow Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -160,7 +160,7 @@
                             </span>
                             <a href="#">Delhi Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -168,7 +168,7 @@
                             </span>
                             <a href="#">Pune Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -176,7 +176,7 @@
                             </span>
                             <a href="#">Hyderabad Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -184,7 +184,7 @@
                             </span>
                             <a href="#">Noida Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -192,7 +192,7 @@
                             </span>
                             <a href="#">Chennai Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -200,7 +200,7 @@
                             </span>
                             <a href="#">Bangalore Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
@@ -208,7 +208,7 @@
                             </span>
                             <a href="#">Bandra Escort</a>
                         </li>
-                        <li class="d-flex gap-2 align-items-center p-2 bg-white rounded">
+                        <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" fill="var(--primary)">
                                     <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />

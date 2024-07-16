@@ -252,3 +252,31 @@ footer {
     background: var(--secondary);
     color: #fff;
 }
+.pro-social {
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+    gap: 20px;
+}
+.pro-social .fa-phone {
+    background-color: #ba1b1b;
+    color: var(--white);
+}
+.pro-social i {
+    border-radius: 5px;
+    padding: 6px 9px;
+    margin-top: 5px;
+    font-size: 1.6rem;
+    background-color: #33EB00;
+    color: var(--white);
+}
+.location-tag {
+    background: linear-gradient(90deg, rgba(255, 0, 255) 0%, rgba(128, 0, 128) 51%, rgba(255, 255, 0) 100%);
+    color: #fff;
+}
+.location-tag a{
+    color: var(--white);
+}
+.top-cities{
+    background: var(--black);
+}

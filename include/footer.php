@@ -16,7 +16,6 @@
                             <li><a href="./profile.php">Profile</a></li>
                             <li><a href="./service.php">Service</a></li>
                             <li><a href="./rates.php">Rates</a></li>
-                            <li><a href="#">Location</a></li>
                             <li><a href="./contact.php">Contact</a></li>
                         </ul>
                     </div>
@@ -133,8 +132,8 @@
                             </li>
                         </ul>
                         <div class="pro-social">
-                            <span><a href="tel:+910000000000"><i class="fa fa-phone"></i></a></span>
-                            <span><a href="http://wa.me/910000000000"><i class="fa fa-whatsapp"></i></a></span>
+                            <span><a href="tel:+910000000000"><i class="fa-solid fa-phone"></i></a></span>
+                            <span><a href="http://wa.me/910000000000"><i class="fa-brands fa-whatsapp"></i></a></span>
                         </div>
                     </div>
                 </div>
