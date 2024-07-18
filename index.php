@@ -10,24 +10,246 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
          </div>
       </div>
-      <div class="row gy-4">
-         <?php for ($i = 0; $i < 8; $i++) { ?>
-         <div class="col-lg-3 col-sm-6">
-            <div class="card h-100 model-card">
-               <img src="./assets/img/gallery-1.webp" alt="" class="card-img-top" />
-               <div class="card-body">
-                  <h5 class="card-title">Model Name</h5>
-                  <p class="card-text line-clamp-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis necessitatibus cum similique incidunt itaque eveniet nobis voluptatum animi laboriosam ipsum?</p>
-                  <button class="btn btn-primary" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">View Details</button>
+    <div class="row">
+         <div class="col-md-12">
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="product-list-box">
+               <div class="product-inner-list">
+                  <a class="product-img-link" rel="nofollow" href="#">
+                     <div class="product-img">
+                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                     </div>
+                  </a>
+                  <div class="product-list-detail">
+                     <a rel="nofollow" href="#">
+                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
+                     </a>
+                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
+                     <ul>
+                        <li>Escorts</li>
+                        <li>Female</li>
+                        <li>18 years</li>
+                     </ul>
+                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <div class="share-btn-right call-info-btn">
+                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                     </div>
+                     <div class="share-btn-right call-info-btn-mob">
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
-         <?php } ?>
       </div>
    </div>
 </section>
 
-
+<!-- 
 <section class="escorts-lising-new">
    <div class="container">
       <div class="row">
@@ -267,19 +489,19 @@
          </div>
       </div>
    </div>
-</section>
+</section> -->
 
 
-<section>
+<section class="bg-dark-section">
    <div class="container">
       <div class="row gy-4">
          <div class="col-md-6 col-lg-4">
             <img src="./assets/img/top-rt-img.webp" alt="" class="img-fluid rounded">
          </div>
          <div class="col-md-6 col-lg-7 offset-lg-1">
-            <h2 class="text-primary mb-3">Lorem ipsum dolor sit</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui velit et natus quos mollitia sunt, suscipit enim? Natus esse ratione excepturi ipsam nobis earum in placeat omnis. Expedita eum ipsum natus quas magnam facilis! Distinctio eum numquam ab debitis facere, fuga sunt nesciunt dolorum deserunt autem dolor neque nobis praesentium inventore, ullam, earum adipisci? Debitis magnam quae beatae ducimus soluta in velit totam placeat voluptatibus nobis labore laborum voluptatum dolorem non cupiditate excepturi, porro cumque. Necessitatibus aliquam enim, amet tempora porro repellat repellendus similique illum dignissimos autem laborum dolores, quasi iure aperiam eius. Animi dolor eum in, facere perferendis expedita?</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui velit et natus quos mollitia sunt, suscipit enim? Natus esse ratione excepturi ipsam nobis earum in placeat omnis. Expedita eum ipsum natus quas magnam facilis! Distinctio eum numquam ab debitis facere, fuga sunt nesciunt dolorum deserunt autem dolor neque nobis praesentium inventore, ullam, earum adipisci? Debitis magnam quae beatae ducimus soluta in velit totam placeat voluptatibus nobis labore laborum voluptatum dolorem non cupiditate excepturi, porro cumque. Necessitatibus aliquam enim, amet tempora porro repellat repellendus similique illum dignissimos autem laborum dolores, quasi iure aperiam eius. Animi dolor eum in, facere perferendis expedita?</p>
+            <h2 class="text-white mb-3">Lorem ipsum dolor sit</h2>
+            <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui velit et natus quos mollitia sunt, suscipit enim? Natus esse ratione excepturi ipsam nobis earum in placeat omnis. Expedita eum ipsum natus quas magnam facilis! Distinctio eum numquam ab debitis facere, fuga sunt nesciunt dolorum deserunt autem dolor neque nobis praesentium inventore, ullam, earum adipisci? Debitis magnam quae beatae ducimus soluta in velit totam placeat voluptatibus nobis labore laborum voluptatum dolorem non cupiditate excepturi, porro cumque. Necessitatibus aliquam enim, amet tempora porro repellat repellendus similique illum dignissimos autem laborum dolores, quasi iure aperiam eius. Animi dolor eum in, facere perferendis expedita?</p>
+            <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui velit et natus quos mollitia sunt, suscipit enim? Natus esse ratione excepturi ipsam nobis earum in placeat omnis. Expedita eum ipsum natus quas magnam facilis! Distinctio eum numquam ab debitis facere, fuga sunt nesciunt dolorum deserunt autem dolor neque nobis praesentium inventore, ullam, earum adipisci? Debitis magnam quae beatae ducimus soluta in velit totam placeat voluptatibus nobis labore laborum voluptatum dolorem non cupiditate excepturi, porro cumque. Necessitatibus aliquam enim, amet tempora porro repellat repellendus similique illum dignissimos autem laborum dolores, quasi iure aperiam eius. Animi dolor eum in, facere perferendis expedita?</p>
          </div>
       </div>
    </div>
@@ -442,6 +664,24 @@
       </div>
    </div>
 </section>
+
+<section>
+   <div class="container">
+      <div class="row gy-4">
+         <div class="col-12">
+            <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ipsam itaque quia sit impedit enim nemo alias consectetur corporis tempore dolor iure fugiat, sed id minima doloremque quasi suscipit, beatae debitis earum, magnam blanditiis! Tempora unde consequatur ipsa assumenda deleniti. Dolores perspiciatis aliquid quibusdam doloribus dolor sequi quam, autem temporibus assumenda veniam reiciendis voluptates eius sint quod suscipit repellat! Nemo ipsum, perferendis facilis earum veritatis repellat soluta delectus. Quis numquam voluptatem porro dolores architecto velit maxime illo eveniet distinctio officia?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
+         </div>
+         <div class="col-12">
+            <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ipsam itaque quia sit impedit enim nemo alias consectetur corporis tempore dolor iure fugiat, sed id minima doloremque quasi suscipit, beatae debitis earum, magnam blanditiis! Tempora unde consequatur ipsa assumenda deleniti. Dolores perspiciatis aliquid quibusdam doloribus dolor sequi quam, autem temporibus assumenda veniam reiciendis voluptates eius sint quod suscipit repellat! Nemo ipsum, perferendis facilis earum veritatis repellat soluta delectus. Quis numquam voluptatem porro dolores architecto velit maxime illo eveniet distinctio officia?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
+         </div>
+      </div>
+   </div>
+</section>
+
 <section class="custom-dark-bg">
    <div class="container">
       <div class="row">
