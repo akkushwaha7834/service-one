@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="row mt-5">
-            <div class="col-md-12">
+            <div class="col-md-6">
                 <div class="profile-gallery">
                     <ul>
                         <li>
@@ -45,6 +45,81 @@
                     </ul>
                 </div>
             </div>
+            <div class="col-md-6">
+                <div class="profile-description mb-5">
+                    <h4 class="text-primary">Characteristics</h4>
+                    <div class="characteristics-girl-info ib-table">
+                        <table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    Age
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Nationality
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Breast
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Body Type
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Gender
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Ethnicity
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Hair
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Shared
+                                </td>
+                                <td>
+                                    Yes
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+            </div>
             <hr>
             <div class="col-md-12 mt-4">
                 <div class="profile-description">
@@ -56,21 +131,7 @@
             </div>
             <hr>
             <div class="col-md-12 mt-4 mb-4">
-                <div class="profile-description">
-                    <h4 class="text-primary">Characteristics</h4>
-                    <div class="characteristics-girl-info">
-                        <ul>
-                            <li><label>Age</label> <span>18</span></li>
-                            <li><label>Nationality</label> <span></span></li>
-                            <li><label>Breast</label> <span></span></li>
-                            <li><label>Body Type</label> <span></span></li>
-                            <li><label>Gender</label> <span>Female</span></li>
-                            <li><label>Ethnicity</label> <span></span></li>
-                            <li><label>Hair</label> <span></span></li>
-                            <li><label>Shared</label> <span>Yes</span></li>
-                        </ul>
-                    </div>
-                </div>
+                
             </div>
             <hr>
             <div class="col-md-12">

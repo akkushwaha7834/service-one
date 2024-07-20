@@ -414,10 +414,10 @@ footer {
 .profile-gallery ul li {
     margin: 5px;
     list-style: none;
-}
-
-.profile-gallery ul {
-    display: flex;
+    float: left;
+    display: grid;
+    gap: 20px;
+    width: 31%;
 }
 .characteristics-girl-info ul {
     max-width: 650px;
@@ -464,4 +464,17 @@ footer {
     background: var(--secondary);
     color: var(--black);
     border-radius: 4px;
+}
+.ib-table table {
+    width: 100%;
+}
+.ib-table tbody tr:nth-child(odd) {
+    background: #eaeaea;
+}
+.ib-table td {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--black);
+    width: 50%;
+    padding: 15px;
 }
