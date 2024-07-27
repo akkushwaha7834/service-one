@@ -6,8 +6,8 @@
 <div class="container">
     <div class="col-md-12">
         <div class="  py-4 call-info-btn">
-            <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-            <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+            <a href="tel:+919838999665" class="thm-btn"><span><img src="assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+            <a class="thm-btn whatsapp-btn" href="https://wa.me/+919838999665?text=Hi,%20I%20am%20looking%20escorts%20in%20%20Lucknow.%20[https://www.pinkimishra.in/]" target="_blank"><span><img src="assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
         </div>
     </div>
 </div>

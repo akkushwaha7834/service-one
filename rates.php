@@ -11,7 +11,7 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quam asperiores ex nesciunt, esse obcaecati amet quasi beatae quo provident iste laudantium rerum excepturi at possimus ipsa eligendi eum explicabo! Qui sed tempora rem accusamus tenetur possimus eius, amet repudiandae.</p>
             </div>
             </div>
-            <div class="row g-4  pricing_row_two">
+            <div class="row g-4 mt-5 pricing_row_two">
               <div class="col-md-4">
                 <div class="pricing">
                   <div class="plans">
