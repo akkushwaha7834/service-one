@@ -85,12 +85,9 @@ button:focus {
     --bs-btn-disabled-bg: var(--primary);
     --bs-btn-disabled-border-color: var(--primary);
 }
-/* .banner-img{
-    min-height: 220px;
-    object-fit: cover;
-    width: 100%;
-} */
-
+.offcanvas.offcanvas-end{
+    height: 60%;
+}
 /* header */
 .header {
     width: 100%;
