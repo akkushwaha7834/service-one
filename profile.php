@@ -1,11 +1,11 @@
 <?php include_once('include/header.php'); ?>
 
 <!-- hero section -->
-<img src="./assets/img/banner.webp" alt="Hero Banner" class="img-fluid pe-none" width="100%" />
+<img src="./assets/img/banner.webp" alt="Hero Banner" class="img-fluid pe-none banner-img" width="100%" />
 
 <div class="container">
     <div class="col-md-12">
-        <div class=" call-info-btn">
+        <div class="  py-4 call-info-btn">
             <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
             <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
         </div>

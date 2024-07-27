@@ -1,12 +1,12 @@
 <?php include_once('include/header.php'); ?>
 
 <!-- hero section -->
-<img src="./assets/img/banner.webp" alt="Hero Banner" class="img-fluid pe-none" width="100%" />
+<img src="./assets/img/banner.webp" alt="Hero Banner" class="img-fluid pe-none banner-img" width="100%" />
 
 <section>
     <div class="container">
         <div class="row gy-4">
-            <div class="col-8">
+            <div class="col-lg-8">
                 <h1 class="mb-3">Avaliable 24x7 Contact anytime</h1>
                 <p class="mb-2">
                     <strong>Phone:</strong>
@@ -20,7 +20,7 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus odit, modi quae nesciunt molestiae deleniti ipsa rerum debitis consequatur minima voluptas incidunt libero omnis natus maxime in possimus tenetur dignissimos dolorem tempora. Hic aspernatur consequatur esse itaque repudiandae obcaecati! Quod!</p>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, reiciendis?</p>
             </div>
-            <div class="col-4">
+            <div class="col-lg-4">
                 <div class="bookform">
                         <h3 class="mb-3 text-white">
                             Lorem Ipsum
@@ -45,9 +45,7 @@
                         </form>
                     </div>
             </div>
-            <div class="col-12">
-                
-            </div>
+
         </div>
     </div>
 </section>

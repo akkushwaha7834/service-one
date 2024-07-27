@@ -85,6 +85,11 @@ button:focus {
     --bs-btn-disabled-bg: var(--primary);
     --bs-btn-disabled-border-color: var(--primary);
 }
+.banner-img{
+    min-height: 220px;
+    object-fit: cover;
+    width: 100%;
+}
 
 /* header */
 .header {
@@ -127,6 +132,7 @@ footer {
     -webkit-line-clamp: 3;
     overflow: hidden;
 }
+
 
 /* escort card */
 .escort-card {
@@ -382,12 +388,7 @@ footer {
 }
 .call-info-btn {
     box-shadow: 0px 4px 110px 0px #00000012;
-    max-width: 440px;
-    background: #fff;
-    border-radius: 16px;
-    padding: 20px 30px;
     box-sizing: border-box;
-    margin: -50px auto 0;
     display: flex;
     align-items: center;
     column-gap: 25px;
@@ -402,7 +403,7 @@ footer {
 }
 .share-btn-right {
 /*    display: inline-block;*/
-    margin-top: -25px;
+    margin-top: 10px;
     float: right;
 }
 .product-list-detail span#spanPhone{
@@ -412,12 +413,7 @@ footer {
     background: var(--primary);
 }
 .profile-gallery ul li {
-    margin: 5px;
-    list-style: none;
-    float: left;
-    display: grid;
-    gap: 20px;
-    width: 31%;
+  list-style: none;
 }
 .characteristics-girl-info ul {
     max-width: 650px;
@@ -445,9 +441,17 @@ footer {
     display: inline-block;
     font-size: 16px;
 }
+.city-lists{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+.profile-gallery ul{
+    padding:0;
+}
 .service-cta-list {
     display: flex;
-    gap: 30px;
+    gap: 20px;
     flex-wrap: wrap;
     margin-bottom: 40px;
 }
