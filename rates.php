@@ -160,7 +160,7 @@
                       <div class="frame-group">
                         <div class="service_price_list_parent">
                           <div class="service_price_list one">Standard</div>
-                          <div class="pricing_para one">₹ 1,000/-   
+                          <div class="pricing_para one">₹ 3,000/-   
                           </div>
                         </div>
                         <div class="frame-container">
