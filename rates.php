@@ -5,13 +5,13 @@
 
 <section>
     <div class="container">
-        <div class="row gy-4">
+        <div class="row gy-4 mb-3">
             <div class="col-lg-12 text-center">
                 <h2>Lucknow Escorts Low Price Service | Fastest Escorts Sevrice in Lucknow</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quam asperiores ex nesciunt, esse obcaecati amet quasi beatae quo provident iste laudantium rerum excepturi at possimus ipsa eligendi eum explicabo! Qui sed tempora rem accusamus tenetur possimus eius, amet repudiandae.</p>
             </div>
             </div>
-            <div class="row mt-5  g-4  pricing_row_two">
+            <div class="row g-4  pricing_row_two">
               <div class="col-md-4">
                 <div class="pricing">
                   <div class="plans">
