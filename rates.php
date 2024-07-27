@@ -19,7 +19,7 @@
                       <div class="frame-group">
                         <div class="service_price_list_parent">
                           <div class="service_price_list one">Basic</div>
-                          <div class="pricing_para one"><sup>₹</sup>1,500/-
+                          <div class="pricing_para one">₹ 1,500/-
                           </div>
                         </div>
                         <div class="frame-container">
@@ -88,7 +88,7 @@
                       <div class="frame-parent2">
                         <div class="service_price_list_parent">
                           <div class="service_price_list">Premium</div>
-                          <div class="pricing_para one text-white"><sup>₹</sup>2,000/-
+                          <div class="pricing_para one text-white">₹ 2,000/-
                           </div>
                         </div>
                         <div class="frame-container">
@@ -160,7 +160,7 @@
                       <div class="frame-group">
                         <div class="service_price_list_parent">
                           <div class="service_price_list one">Standard</div>
-                          <div class="pricing_para one"><sup>₹</sup>1,000/-   
+                          <div class="pricing_para one">₹ 1,000/-   
                           </div>
                         </div>
                         <div class="frame-container">
