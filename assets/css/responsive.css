@@ -28,10 +28,17 @@
   gap: 10px;
    
 }
+.service_price_list {
+    font-size: 29px;
+    line-height: 39px;
+}
 }
 @media (max-width: 767.98px){
     .city-lists {
         grid-template-columns: repeat(2, 1fr);
+}
+.pricing_one {
+    transform: none;
 }
 	.product-list-detail h4 {
         font-size: 16px;

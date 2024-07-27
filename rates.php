@@ -10,15 +10,16 @@
                 <h2>Lucknow Escorts Low Price Service | Fastest Escorts Sevrice in Lucknow</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quam asperiores ex nesciunt, esse obcaecati amet quasi beatae quo provident iste laudantium rerum excepturi at possimus ipsa eligendi eum explicabo! Qui sed tempora rem accusamus tenetur possimus eius, amet repudiandae.</p>
             </div>
-            <div class="row mt-5 pricing_row_two">
+            </div>
+            <div class="row mt-5  g-4  pricing_row_two">
               <div class="col-md-4">
                 <div class="pricing">
                   <div class="plans">
                     <div class="plan">
                       <div class="frame-group">
                         <div class="service_price_list_parent">
-                          <div class="service_price_list one">Lorem Ipsum</div>
-                          <div class="pricing_para one">Lorem Ipsum
+                          <div class="service_price_list one">Basic</div>
+                          <div class="pricing_para one"><sup>₹</sup>1,500/-
                           </div>
                         </div>
                         <div class="frame-container">
@@ -80,14 +81,14 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-4 mt-md-0 mt-5">
                 <div class="pricing_one pricing">
                   <div class="plans">
                     <div class="plan1">
                       <div class="frame-parent2">
                         <div class="service_price_list_parent">
-                          <div class="service_price_list">Lorem Ipsum</div>
-                          <div class="pricing_para">Lorem Ipsum
+                          <div class="service_price_list">Premium</div>
+                          <div class="pricing_para one text-white"><sup>₹</sup>2,000/-
                           </div>
                         </div>
                         <div class="frame-container">
@@ -158,8 +159,8 @@
                     <div class="plan">
                       <div class="frame-group">
                         <div class="service_price_list_parent">
-                          <div class="service_price_list one">Lorem Ipsum</div>
-                          <div class="pricing_para one">Lorem Ipsum   
+                          <div class="service_price_list one">Standard</div>
+                          <div class="pricing_para one"><sup>₹</sup>1,000/-   
                           </div>
                         </div>
                         <div class="frame-container">
@@ -223,7 +224,7 @@
               </div>
             </div>
         </div>
-    </div>
+    
 </section>
 
 <?php include_once('include/footer.php'); ?>
